@@ -9,6 +9,10 @@
 🎮 **Permanent Play Link (GitHub Pages)**: [https://madhu-sunkari2.github.io/hyderabad-rush/](https://madhu-sunkari2.github.io/hyderabad-rush/)  
 🔗 **Cloud Run Workshop Mirror**: [https://hyderabad-rush-796910223127.us-central1.run.app](https://hyderabad-rush-796910223127.us-central1.run.app) *(Active during workshop)*
 
+<p align="center">
+  <img src="assets/demo.gif" alt="Hyderabad Rush Gameplay Demo" width="460" style="border-radius: 16px; box-shadow: 0 8px 30px rgba(0,0,0,0.5);" />
+</p>
+
 ---
 
 ## 🌟 Overview
